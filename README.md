@@ -4,7 +4,7 @@
 ## :man_cook: About me
 I'm Software Engineer with specialization and interest in System Engineering (DevOps and Infrastructure). Currently worked at [Prosa.ai](https://www.prosa.ai) as System Engineer (but I do coding too :grin:).
 
-## Skillsets
+## :technologist: Skills
 
 
 <p align="center">
@@ -19,10 +19,17 @@ I'm Software Engineer with specialization and interest in System Engineering (De
 </p>
 
 
-## :technologist: Personal Projects
+## :hammer_and_pick: Personal Projects
  - [Twitter News Discord Bot](https://github.com/fajarnugroho/twitter-news-discord-bot)
  - [Dotfiles](https://github.com/fajarnugroho/dotfiles)
+-------------------------------------------------------------------------------
+## :link: Contacts
 
+<p align="center">
+    <a href="mailto:fajar@nugrohof.com"><img title="Email" alt="Email" src="https://raw.githubusercontent.com/fajarnugroho/fajarnugroho/master/assets/gmail.svg" width="70" height="40" /></a>
+    <a href="https://www.nugrohof.com"><img title="Website" alt="Website" src="https://raw.githubusercontent.com/fajarnugroho/fajarnugroho/master/assets/web.svg" width="70" height="40" /></a>
+    <a href="https://wiki.nugrohof.com"><img title="Wiki" alt="Wiki" src="https://raw.githubusercontent.com/fajarnugroho/fajarnugroho/master/assets/wiki.svg" width="70" height="40" />
+</p>
 
 
 ------------------------------------------------------------------------------
