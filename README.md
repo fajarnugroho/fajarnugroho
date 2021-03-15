@@ -2,8 +2,7 @@
 
 
 ## :man_cook: About me
-I'm Software Engineer with specialization and interest in System Engineering (DevOps and Infrastructure). Currently worked at [Prosa.ai](https://www.prosa.ai) as System Engineer (but I do coding too :grin:).
-
+I'm System Engineer who has experience working on multiple projects that serve million users. Currently worked at [Prosa.ai](https://www.prosa.ai) as System Engineer
 ## :technologist: Skills
 
 
